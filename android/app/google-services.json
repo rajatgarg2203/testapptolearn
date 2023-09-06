@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527079554912",
+    "project_id": "testapptolearn-flutter",
+    "storage_bucket": "testapptolearn-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527079554912:android:0007c112a1a46d7f802805",
+        "android_client_info": {
+          "package_name": "com.example.testapptolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527079554912-ij0sbaeo21nue6a6hvqvi3aggbeatcp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGs7gZlHRlDSEBTzuxwTJVQ5O8BSBuRJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527079554912-ij0sbaeo21nue6a6hvqvi3aggbeatcp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
